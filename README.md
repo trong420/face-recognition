@@ -3,6 +3,7 @@ Small and basic project for face recognition using Python
 
 # Introduce
 Facial recognition with pre-set data
+
 Example with Donald Trump and Elon Musk face
 
 # Result
